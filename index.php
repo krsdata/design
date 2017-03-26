@@ -5,7 +5,7 @@
 <title>WaySms</title>
 <script>
 function newDoc() {
-    window.location.assign("http://design.krsdata.net")
+    window.location.assign("http://design.krsdata.net/index.html")
 }
 </script>
 </head>
