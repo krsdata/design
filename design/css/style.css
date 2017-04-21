@@ -1,0 +1,227 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+ul
+{
+	padding:0;
+}
+li
+{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+a
+{
+	text-decoration:none;
+}
+a:focus, a:active, a:hover
+{
+	outline:0;
+	text-decoration:none;
+}
+img
+{
+	max-width:100%;
+}
+.header
+{
+	line-height:100px;
+	background:#001c34;
+}
+.logo img
+{
+	vertical-align:middle;
+}
+.header .contact-number-header
+{
+	font-size:24px;
+	color:#fff;
+	font-size:700;
+	text-align:right;
+	font-weight:700;
+}
+.second-header
+{
+	background:url(../img/landing-top-bg-trim.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:20px 0px;
+}
+.second-header h1
+{
+	text-align:center;
+	color:#fff;
+	margin:0;
+	line-height:48px;
+	font-size:30px;
+	font-weight:700;
+}
+.second-header h1 span
+{
+	color:#00ffff;
+}
+.third-section p
+{
+	font-size:24px;
+	line-height:36px;
+}
+.third-section
+{
+	padding:50px 0px;
+}
+.third-section .fa
+{
+	color:#2fb745;
+	margin-right:15px;
+}
+.detail-btn a
+{
+	background:#2fb745;
+	font-size:16px;
+	color:#fff;
+	padding:15px;
+	margin-top:25px;
+	display:block;
+	width:200px;
+	text-align:center;
+	border-radius:5px;
+	    box-shadow: 0 5px 0 #53812d;
+	
+}
+.third-device
+{
+	margin-top:30px;
+}
+.third-form
+{
+	
+	padding:10px;
+	border:1px solid #00ffff;
+	 box-shadow: 0 0px 15px #666;
+}
+.third-form-in
+{
+	border:1px solid #ccc;
+	padding:15px;
+}
+.main-form h2
+{
+	background:#333;
+	font-size:24px;
+	text-transform:uppercase;
+	color:#fff;
+	padding:15px;
+	text-align:center;
+	font-weight:700;
+	
+	margin:0px -15px;
+	margin-top:-15px;
+}
+.third-form-fill
+{
+	margin-top:25px;
+}
+.third-form-fill input
+{
+	border:1px solid #ccc;
+	
+	width:100%;
+	display:block;
+	margin-bottom:25px;
+	padding:15px 15px;
+}
+p.third-form-content
+{
+	font-size:16px !important;
+	color:#333 !important;
+	line-height:24px;	
+}
+.brand-form-logo
+{
+	width:100%;
+	padding:10px;
+	border:1px solid #f1f1f1;
+	margin-top:25px;
+}
+.brand-form-logo img
+{
+	width:100%;
+	padding:10px;
+	border:1px solid #f1f1f1;
+}
+input.send-btn
+{
+	background:#6dab3c;
+	color:#fff;
+	height:45px;
+	border:0px;
+	border-radius:5px;
+}
+.fourth-section
+{
+	background:#eaeaea;
+	padding:30px 0px;
+}
+.fourth-section h2 
+{
+    background: #333;
+    font-size: 24px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+    font-weight: 700;
+	width:50%;
+}
+.testimonial-box 
+{
+    float: left;
+    width: 50%;
+    margin-bottom: 15px;
+}
+.testimonial-box h3
+{
+	font-size:18px;
+	color:#333;
+	font-weight:700;
+}
+.client-img {
+    float: left;
+    width: 13%;
+}
+.client-words {
+    padding: 15px;
+    background: #fff;
+    margin: 0px 15px;
+    float: left;
+    width: 80%;
+}
+.who-is
+{
+	margin-top:25px;
+}
+.whois-para
+{
+	font-size:18px;
+	color:#484848;
+	font-weight:300;
+	line-height:30px;
+	margin-top:25px;
+	text-align:center;
+}
+.last-para
+{
+	font-size:12px;
+	text-align:center;
+	padding:40px 0px;
+	margin:0;
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+	margin-top:25px;
+}

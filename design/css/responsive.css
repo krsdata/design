@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media only screen and (max-width : 991px)
+{
+	.client-words
+	{
+		width:78%;
+	}
+	.fourth-section h2
+	{
+		width:100%;
+	}
+}
+@media only screen and (max-width : 767px)
+{
+	.header .contact-number-header
+	{
+		text-align:center;
+		font-size:18px;
+	}
+	.header
+	{
+		text-align:center;
+		line-height:65px;
+	}
+	.second-header h1 {
+   
+    line-height: 30px;
+    font-size: 24px;
+}
+.third-section
+{
+	text-align:center;
+	padding: 30px 0px;
+}
+.detail-btn a
+{
+	margin: 25px auto;
+}
+.third-form
+{
+	margin-top:25px;
+}
+.third-section p {
+    font-size: 18px;
+    line-height: 24px;
+}
+.detail-btn a {
+    margin: 25px auto;
+    font-size: 14px;
+    padding: 10px;
+}
+.main-form h2, .fourth-section h2
+{
+	font-size:18px;
+}
+.whois-para {
+    font-size: 16px;
+    color: #484848;
+    font-weight: 300;
+    line-height: 24px;
+    margin-top: 15px;
+    text-align: center;
+}
+.last-para {
+    font-size: 12px;
+    text-align: center;
+    padding: 15px 0px;
+    margin: 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin-top: 15px;
+}
+}
+@media only screen and (max-width :640px)
+{
+.second-header h1 {
+    line-height: 30px;
+    font-size: 18px;
+}
+.third-form-fill input {
+    border: 1px solid #ccc;
+    width: 100%;
+    display: block;
+    margin-bottom: 15px;
+    padding: 10px 15px;
+}
+.testimonial-box {
+    float: left;
+    width: 100%;
+    margin-bottom: 15px;
+}
+}
